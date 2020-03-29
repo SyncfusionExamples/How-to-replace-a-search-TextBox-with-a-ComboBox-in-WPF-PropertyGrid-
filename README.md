@@ -1,1 +1,1 @@
-# How-to-replace-a-search-TextBox-with-a-ComboBox-in-WPF-PropertyGrid-
+# How-to-replace-a-search-textBox-with-a-comboBox-in-PropertyGrid
