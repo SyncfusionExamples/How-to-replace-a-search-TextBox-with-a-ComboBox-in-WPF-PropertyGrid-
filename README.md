@@ -14,9 +14,9 @@ In order to add ComboBoxAdv control manually in XAML, do the below steps,
 **[XAML]**
 
 ```
- <Grid>
-        <syncfusion:ComboBoxAdv Height="30" Width="150"/>
-    </Grid>
+<Grid>
+    <syncfusion:ComboBoxAdv Height="30" Width="150"/>
+</Grid>
 ```
 
 # Adding control manually in C#
